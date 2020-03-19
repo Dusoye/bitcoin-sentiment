@@ -13,14 +13,13 @@ library(rtweet)
 library(ROAuth)
 library(tidytext)
 
-
-source("twitterkey.R") # Twitter api access credentials 
-
 options(digits.secs=3)
 
 #############################
 ## twitter connection details
 #############################
+
+source("twitterkey.R") # Twitter api access credentials 
 
 create_token(
   consumer_key = consumer_key,
