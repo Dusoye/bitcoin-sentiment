@@ -13,6 +13,8 @@ Thought: Can Twitter sentiment be used to profitably trade Bitcoin?
 
 tldr: No because people only tweet positive things about Bitcoin.
 
+Full code at https://github.com/Dusoye/bitcoin-sentiment
+
 ### Predictable inefficiencies
 
 The best way to be successful over a prolonged period of betting or financial trading is to identify the given extent to which a game or market is inefficient and then capitalising by finding a method of exploiting the inefficiency. Clearly most of the low hanging fruit has long been gobbled up and some of the more complex market inefficiencies pounced on by high-frequency algorithmic trading firms which are tricky for a single individual to compete against; but it's possible that mispricing inefficiencies that individuals can take advantage of still exist for less liquid markets where information flows much slower, such as cryptocurrencies.
