@@ -1,12 +1,3 @@
----
-title: "Bitcoin Sentiment"
-author: "Riz Dusoye"
-output: html_document
-tags: ['Bitcoin','R','NLP','Trading']
----
-
-
-
 # Using Tweets to trade Bitcoin
 
 Thought: Can Twitter sentiment be used to profitably trade Bitcoin?
